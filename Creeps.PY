@@ -1,0 +1,1 @@
+print("daqko ng minnion")
